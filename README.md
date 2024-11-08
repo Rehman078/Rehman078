@@ -8,10 +8,10 @@
 
 👨‍💻 **About Me**  
 I am a **Software Engineer** with **2 years of development experience**, proficient in frontend technologies like **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript**, as well as **React.js** ⚛️. On the backend, I specialize in **Laravel**, **Express.js**, and **Node.js** 🌱.I started coding in **2021** and became a professional developer in **2023**. I have a strong passion for **coding**, **logic building**, and **requirements engineering**🌟.
-
-🌱 **Currently Learning**: Blockchain, Deno, Rust, Go  
+  
 📫 **Reach Out to Me**:  
-   - Email: [rehmannaveed715@gmail.com](mailto:rehmannaveed715@gmail.com)  
+   - Email: [rehmannaveed715@gmail.com](mailto:rehmannaveed715@gmail.com)
+     
 😄 **Pronouns**: him/his  
 
 ---
@@ -27,14 +27,13 @@ I am a **Software Engineer** with **2 years of development experience**, profici
 - **Styling**: CSS3, Styled Components  
 
 ### Programming Languages
-- **Languages**: JavaScript, TypeScript, Python, Go, Rust, Java, Dart, Kotlin, C#, C++, C, PHP  
+- **Languages**: JavaScript, C#, C++, C, PHP  
 
 ### Testing
-- **Tools**: Jest, Mocha, Chai, Sinon, Supertest, Cypress, Jasmine, Karma, Selenium, Puppeteer, Postman, Swagger  
+- **Tools**: Postman, Swagger  
 
 ### Tools
-- **Utilities**: PM2, Babel, Webpack, Nodemon  
-- **Editors**: VSCode, WebStorm, Android Studio  
+- **Editors**: VSCode, WebStorm
 - **Prototyping**: Postman, Figma, Adobe XD  
  
 ### Version Control & Code Hosting
