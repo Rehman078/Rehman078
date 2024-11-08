@@ -25,8 +25,14 @@ I am a **Software Engineer** with **2 years of development experience**, profici
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Design
-- **UI Libraries**: Bootstrap, Tailwind CSS
-- **Styling**: CSS3, Styled Components
+
+### 🎨 Design
+- **UI Libraries**: 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **Styling**: 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Backend
 - **Frameworks**: Laravel, Express, Node.js
