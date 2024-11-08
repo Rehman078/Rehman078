@@ -4,8 +4,14 @@
   <strong>Software Engineer | Full Stack Web Developer | Laravel Developer | MERN Stack Developer</strong>
 </p>
 
-
 ---
+
+👨‍💻 **About Me**  
+I am a **Software Engineer** with **2 years of development experience**, proficient in frontend technologies like **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript**, as well as **React.js** ⚛️. On the backend, I specialize in **Laravel**, **Express.js**, and **Node.js** 🛠️.
+
+🚀 I started coding in **2021** and became a professional developer in **2023**. I have a strong passion for **coding**, **logic building**, and **requirements engineering**.
+
+💪 I believe in myself and know that if I set my mind to accomplish something, I will achieve it! 🌟
 
 🌱 **Currently Learning**: Blockchain, Deno, Rust, Go  
 📫 **Reach Out to Me**:  
