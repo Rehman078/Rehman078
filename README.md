@@ -1,6 +1,9 @@
-# Hey there 👋, I'm Muhammad Rizwan Ashiq
+<h1 align="center">Hey there 👋, I'm Muhammad Rizwan Ashiq</h1>
 
-**Student | Senior Software Engineer | Full Stack Web Developer | Team Player | Teacher**
+<p align="center">
+  <strong>Student | Senior Software Engineer | Full Stack Web Developer | Team Player | Teacher</strong>
+</p>
+
 
 ---
 
