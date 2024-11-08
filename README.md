@@ -19,12 +19,12 @@ I am a **Software Engineer** with **2 years of development experience**, profici
 ## My Tech Stack
 
 ### Frontend
-- **Frameworks**: React, Next.js, Redux, Gatsby, Vue.js, Nuxt.js  
+- **Frameworks**: React, Next.js, Redux, Gatsby, Vue.js 
 - **Templates**: HTML5, EJS, Pug, Handlebars  
 
 ### Design
-- **UI Libraries**: Bootstrap, Material-UI, Tailwind CSS, Ant Design  
-- **Styling**: Sass, CSS3, Styled Components  
+- **UI Libraries**: Bootstrap, Tailwind CSS
+- **Styling**: CSS3, Styled Components  
 
 ### Programming Languages
 - **Languages**: JavaScript, TypeScript, Python, Go, Rust, Java, Dart, Kotlin, C#, C++, C, PHP  
