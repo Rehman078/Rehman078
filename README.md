@@ -7,6 +7,7 @@
 ---
 
 👨‍💻 **About Me**  
+
 I am a **Software Engineer** with **2 years of development experience**, proficient in frontend technologies like **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript**, as well as **React.js** ⚛️. On the backend, I specialize in **Laravel**, **Express.js**, and **Node.js** 🌱.I started coding in **2021** and became a professional developer in **2023**. I have a strong passion for **coding**, **logic building**, and **requirements engineering**🌟.
   
 📫 **Reach Out to Me**:  
