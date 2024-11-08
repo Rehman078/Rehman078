@@ -63,4 +63,6 @@ I am a **Software Engineer** with **2 years of development experience**, profici
  
 ---
 
-Thank you for visiting my profile! 😊
+<p align="center">
+  <strong>Thank you for visiting my profile! 😊</strong>
+</p>
