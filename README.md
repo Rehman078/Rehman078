@@ -24,7 +24,10 @@ I am a **Software Engineer** with **2 years of development experience**, profici
 
 ### Design
 - **UI Libraries**: Bootstrap, Tailwind CSS
-- **Styling**: CSS3, Styled Components  
+- **Styling**: CSS3, Styled Components
+
+### Backend
+- **Frameworks**: Laravel, Express, Node.js
 
 ### Programming Languages
 - **Languages**: JavaScript, C#, C++, C, PHP  
