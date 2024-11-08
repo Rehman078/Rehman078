@@ -1,17 +1,15 @@
-<h1 align="center">Hey there 👋, I'm Muhammad Rizwan Ashiq</h1>
+<h1 align="center">Hey there 👋, I'm Muhammad Rehman Naveed</h1>
 
 <p align="center">
-  <strong>Student | Senior Software Engineer | Full Stack Web Developer | Team Player | Teacher</strong>
+  <strong>Software Engineer | Full Stack Web Developer | Laravel Developer | MERN Stack Developer</strong>
 </p>
 
 
 ---
 
 🌱 **Currently Learning**: Blockchain, Deno, Rust, Go  
-📝 **Writer**: [dev.to/mrizwanashiq](https://dev.to/mrizwanashiq)  
-💬 **Ask Me About**: JavaScript, TypeScript, React, Node.js, Databases, Data Structures, Software Engineering, Architecture, and more  
 📫 **Reach Out to Me**:  
-   - Email: [mrizwanashiq@outlook.com](mailto:mrizwanashiq@outlook.com)  
+   - Email: [rehmannaveed715@gmail.com](mailto:rehmannaveed715@gmail.com)  
 😄 **Pronouns**: him/his  
 
 ---
