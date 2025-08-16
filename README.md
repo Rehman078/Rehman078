@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Muhammad Rehman Naveed</h1>
+<h1 align="center">Hey there 👋, I'm Rehman Naveed</h1>
 
 <p align="center">
   <strong>Software Engineer | Full Stack Web Developer | Laravel Developer | MERN Stack Developer</strong>
