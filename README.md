@@ -16,7 +16,7 @@ I am a passionate **Software Engineer** with **2+ years of professional developm
 
 - 🚀 Started coding in **2021**, became a professional developer in **2023**  
 - ❤️ Love **coding**, **logic building**, **debugging**, and **requirements engineering**  
-- 🧩 Experienced in **MERN**, **Next.js**, **Laravel**, **Express.js**, and **API engineering**  
+- 🧩 Experienced in **MERN**, **Next.js**, **Laravel**, **Express.js**, **Nest.js**, and **API engineering**  
 
 📫 **Reach Out to Me**  
 **Email:** [rehmannaveed715@gmail.com](mailto:rehmannaveed715@gmail.com)  
