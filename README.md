@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | Full Stack Web Developer | Laravel Developer | MERN & Next.js Developer</strong>
+  <strong>Software Engineer | Full Stack Web Developer</strong>
 </p>
 
 ---
