@@ -111,10 +111,16 @@ const rehman = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rehmanstackdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanstackdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/rehmanstackdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehmanstackdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanstackdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanstackdev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rehmanstackdev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,17 +130,7 @@ const rehman = {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rehmanstackdev&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rehmanstackdev&theme=react-dark&hide_border=true&area=true)](https://github.com/rehmanstackdev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rehmanstackdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
