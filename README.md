@@ -137,15 +137,6 @@ const rehman = {
 
 <div align="center">
 
-<a href="https://github.com/rehmanstackdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehmanstackdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanstackdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rehmanstackdev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
@@ -168,15 +159,11 @@ const rehman = {
 
 <div align="center">
 
-### 💭 **Random Dev Quote**
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🌟 **Thank you for visiting my profile!**
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
-![Snake animation](https://github.com/rehmanstackdev/rehmanstackdev/blob/output/github-contribution-grid-snake.svg)
 
 **Made with ❤️ by Rehman Naveed**
 
