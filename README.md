@@ -15,7 +15,6 @@
 ---
 
 ## 👨‍💻 **About Me**
-
 I am a passionate **Software Engineer** with **2+ years of professional development experience**, specializing in modern **Frontend & Backend development** and building scalable, secure, and efficient applications.
 
 ```typescript
@@ -34,12 +33,11 @@ const rehman = {
 ```
 
 ### 🎯 **Quick Facts**
-
 - 🚀 Started coding in **2021**, became a professional developer in **2023**
 - ❤️ Love **coding**, **logic building**, **debugging**, and **requirements engineering**
 - 🧩 Experienced in **MERN**, **Next.js**, **Laravel**, **Express.js**, **Nest.js**, and **API engineering**
 - 🌱 Currently exploring modern web architectures and design patterns
-- 😄 **Pronouns:** He/Him  
+- 😄 **Pronouns:** He/Him
 
 ---
 
@@ -129,12 +127,9 @@ const rehman = {
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-
-
 ---
 
 ## 📊 **GitHub Statistics**
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rehmanstackdev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -146,25 +141,25 @@ const rehman = {
 ## 💡 **Favorite Quote**
 
 <div align="center">
+<table>
+<tr>
+<td>
 
-> *"You can never understand everything.*
->
-> *But, you should push yourself to understand the system."*
->
-> **~ Ryan Dahl - Creator of Node.js**
+### *"You can never understand everything.*
 
+### *But, you should push yourself to understand the system."*
+
+#### **~ Ryan Dahl - Creator of Node.js**
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 <div align="center">
 
-
 ### 🌟 **Thank you for visiting my profile!**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-
-
-**Made with ❤️ by Rehman Naveed**
 
 </div>
