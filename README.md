@@ -4,11 +4,9 @@
 
 <img src="https://i.ibb.co/9rFjvJf/dev-banner.gif" alt="Developer Banner" width="90%" />
 
-### 💻 Full-Stack Developer | Mobile App Developer | Open Source Contributor
+### 💻 Software Engineer | Full Stack Web Developer
 
 [![Email](https://img.shields.io/badge/Email-rehmannaveed715%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmannaveed715@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehmanstackdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rehmanstackdev)
 [![GitHub followers](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehmanstackdev)
 [![Profile Views](https://komarev.com/ghpvc/?username=rehmanstackdev&style=for-the-badge&color=blueviolet)](https://github.com/rehmanstackdev)
 
@@ -17,22 +15,20 @@
 ---
 
 ## 👨‍💻 **About Me**
+I am a passionate **Software Engineer** with **2+ years of professional development experience**, specializing in modern **Frontend & Backend development** and building scalable, secure, and efficient applications.
 
 ```typescript
 const rehman = {
-  role: "Full-Stack Developer",
-  experience: "2+ years",
-  currentFocus: ["Web Development", "Mobile Apps", "Open Source"],
-  code: ["JavaScript", "TypeScript", "PHP", "C++", "C", "C#"],
+  code: ["JavaScript", "PHP", "C++", "C", "C#"],
   technologies: {
-    frontEnd: ["React", "Next.js", "Redux", "Vue.js"],
+    frontEnd: ["React", "Next.js", "Redux"],
     backEnd: ["Laravel", "Express.js", "Nest.js", "Node.js"],
-    mobile: ["React Native", "Flutter", "Swift"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase"],
-    tools: ["VSCode", "WebStorm", "Figma", "Git", "Docker"]
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    devOps: ["Git", "GitHub"],
+    tools: ["VSCode", "WebStorm", "Figma", "Cursor AI"]
   },
   architecture: ["REST APIs", "MVC", "Microservices"],
-  funFact: "I turn coffee into code and bugs into features! ☕"
+  currentFocus: "Building scalable full-stack applications"
 };
 ```
 
@@ -162,23 +158,8 @@ const rehman = {
 
 ---
 
-## 🎯 **Connect With Me**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehmanstackdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rehmanstackdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmannaveed715@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rehmanstackdev.com)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 **Thank you for visiting my profile!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=rehmanstackdev&color=blueviolet&style=flat-square)
 
 </div>
