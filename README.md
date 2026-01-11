@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm <strong>Rehman Naveed</strong></h1>
+<h1 align="center">Hi 👋, I'm <strong>Rehman Naveed</strong></h1>
 
 <p align="center">
   <img src="https://i.ibb.co/9rFjvJf/dev-banner.gif" alt="Developer Banner" width="90%" />
