@@ -1,11 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm **Rehman Naveed**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=Hi%20👋%20I'm%20Rehman%20Naveed&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=16&descColor=ffffff&descAlignY=55" width="100%" />
 
 <img src="https://i.ibb.co/9rFjvJf/dev-banner.gif" alt="Developer Banner" width="90%" />
 
-### 💻 Software Engineer | Full Stack Web Developer
+<br/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=💻+Full+Stack+Developer;🌐+Web+Development+Specialist;🚀+Transforming+Ideas+into+Digital+Experiences;⚡+MERN+%7C+Next.js+%7C+Laravel+%7C+NestJS" alt="Typing SVG" /></a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rehmannaveed.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rehmannaveed.com)
 [![Email](https://img.shields.io/badge/Email-rehmannaveed715%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmannaveed715@gmail.com)
 [![GitHub followers](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehmanstackdev)
 [![Profile Views](https://komarev.com/ghpvc/?username=rehmanstackdev&style=for-the-badge&color=blueviolet)](https://github.com/rehmanstackdev)
@@ -15,7 +20,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-I am a passionate **Software Engineer** with **2+ years of professional development experience**, specializing in modern **Frontend & Backend development** and building scalable, secure, and efficient applications.
+I am a passionate **Full Stack Developer** with **3+ years of professional development experience**, specializing in modern **Frontend & Backend development** and building scalable, secure, and efficient applications.
 
 ```typescript
 const rehman = {
@@ -161,5 +166,7 @@ const rehman = {
 <div align="center">
 
 ### 🌟 **Thank you for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
